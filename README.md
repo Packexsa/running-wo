@@ -1,6 +1,6 @@
 ## Tutorial Running!!
 If you need help or a way to run the code template above, you can directly watch the video tutorial that I provided. 
-(View Video)[https://youtu.be/DPlOA0bdJ70?si=fS54II1Ey8IN7PxC]
+[Watch Video](https://youtu.be/DPlOA0bdJ70?si=fS54II1Ey8IN7PxC)
 
 ## [🇮🇩] Kode ini memungkinkan kalian untuk bisa menjalankan script menggunakan workflow
 
