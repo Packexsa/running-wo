@@ -1,3 +1,7 @@
+## Tutorial Running!!
+If you need help or a way to run the code template above, you can directly watch the video tutorial that I provided. 
+(View Video)[https://youtu.be/DPlOA0bdJ70?si=fS54II1Ey8IN7PxC]
+
 ## [🇮🇩] Kode ini memungkinkan kalian untuk bisa menjalankan script menggunakan workflow
 
 ![alt text](https://k.top4top.io/p_3234w6acu1.jpg?raw=true)
@@ -9,7 +13,7 @@ Menjalan kan sebuah script hanya menggunakan github dan pastinya ini free akses 
 
 ![alt text](https://c.top4top.io/p_3234gfux91.jpg?raw=true)
 
-## Penjelasan
+## Explanation
 Running a script using only github and of course this is free access for everyone and the speed test when running the script in this workflow is very fast but only lasts for 6 hours. thus forcing us to Re-run.
 
 
