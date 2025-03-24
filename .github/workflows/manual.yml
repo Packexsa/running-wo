@@ -25,13 +25,18 @@ jobs:
         sudo apt-get install unzip  # Install unzip tool if not already installed
         unzip panel-netplus-systemwa/ryzen.zip -d ./RepositoryName # Unzip ryzen.zip in the RepositoryName directory
 
-    # Step 4: Install npm dependencies
+    # Step 4: Cd a ryzen.zip
+    - name: cd ryzen
+    run: |
+        cd ryzen
+
+    # Step 5: Install npm dependencies
     - name: Install npm dependencies
       run: |
         cd RepositoryName
         npm install
 
-    # Step 5: Start the npm application
+    # Step 6: Start the npm application
     - name: Start the application
       run: |
         cd RepositoryName
